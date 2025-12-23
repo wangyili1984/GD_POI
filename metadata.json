@@ -1,0 +1,5 @@
+{
+  "name": "AMap POI Miner & GIS",
+  "description": "A professional GIS tool for mining AMap POI data within custom polygons using grid segmentation, with visualization and Excel export capabilities.",
+  "requestFramePermissions": []
+}
